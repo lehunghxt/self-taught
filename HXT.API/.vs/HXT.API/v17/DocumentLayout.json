@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\min\\self-taught\\HXT.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|d:\\min\\self-taught\\hxt.api\\hxt.api\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rabitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|solutionrelative:hxt.rabitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D5368D-682C-4649-8DC5-70646272907A}|HXT.ConsoleApp\\HXT.ConsoleApp.csproj|D:\\min\\self-taught\\HXT.API\\hxt.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D5368D-682C-4649-8DC5-70646272907A}|HXT.ConsoleApp\\HXT.ConsoleApp.csproj|solutionrelative:hxt.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rabitmq\\irabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|solutionrelative:hxt.rabitmq\\irabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rabitmq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9462400-A98F-4D08-BDD3-8BCD02A50A4C}|HXT.RabitMQ\\HXT.RabitMQ.csproj|solutionrelative:hxt.rabitmq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|D:\\min\\self-taught\\HXT.API\\hxt.apiclient\\httpclientsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|solutionrelative:hxt.apiclient\\httpclientsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|D:\\min\\self-taught\\HXT.API\\hxt.apiclient\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|solutionrelative:hxt.apiclient\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|D:\\min\\self-taught\\HXT.API\\hxt.apiclient\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580AE077-A685-4FD7-91CA-8EF7F7572FEA}|HXT.APIClient\\HXT.APIClient.csproj|solutionrelative:hxt.apiclient\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|D:\\min\\self-taught\\HXT.API\\hxt.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|solutionrelative:hxt.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070A4E75-B2EB-41D5-8CAE-4045AA26E3E9}|HXT.Service\\HXT.Service.csproj|D:\\min\\self-taught\\HXT.API\\hxt.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070A4E75-B2EB-41D5-8CAE-4045AA26E3E9}|HXT.Service\\HXT.Service.csproj|solutionrelative:hxt.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rediscache\\redisdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|solutionrelative:hxt.rediscache\\redisdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\hxt.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\hxt.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rediscache\\rediscachehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|solutionrelative:hxt.rediscache\\rediscachehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rediscache\\iredisdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|solutionrelative:hxt.rediscache\\iredisdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|D:\\min\\self-taught\\HXT.API\\hxt.rediscache\\icachehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20853AD-159A-4F34-9305-CA4DA913C893}|HXT.RedisCache\\HXT.RedisCache.csproj|solutionrelative:hxt.rediscache\\icachehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|D:\\min\\self-taught\\HXT.API\\hxt.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|solutionrelative:hxt.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A816D79D-5FF2-48F8-A819-F8D7A897C376}|HXT.Infrastructure\\HXT.Infrastructure.csproj|D:\\min\\self-taught\\HXT.API\\hxt.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A816D79D-5FF2-48F8-A819-F8D7A897C376}|HXT.Infrastructure\\HXT.Infrastructure.csproj|solutionrelative:hxt.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070A4E75-B2EB-41D5-8CAE-4045AA26E3E9}|HXT.Service\\HXT.Service.csproj|D:\\min\\self-taught\\HXT.API\\hxt.service\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070A4E75-B2EB-41D5-8CAE-4045AA26E3E9}|HXT.Service\\HXT.Service.csproj|solutionrelative:hxt.service\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A816D79D-5FF2-48F8-A819-F8D7A897C376}|HXT.Infrastructure\\HXT.Infrastructure.csproj|D:\\min\\self-taught\\HXT.API\\hxt.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A816D79D-5FF2-48F8-A819-F8D7A897C376}|HXT.Infrastructure\\HXT.Infrastructure.csproj|solutionrelative:hxt.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|D:\\min\\self-taught\\HXT.API\\hxt.domain\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3052F29-1DD9-4B26-86B7-DBDFA9059D3A}|HXT.Domain\\HXT.Domain.csproj|solutionrelative:hxt.domain\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|D:\\min\\self-taught\\HXT.API\\hxt.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24A4FC3-21EC-4206-9D44-4E9ED49F2FDB}|HXT.API\\HXT.API.csproj|solutionrelative:hxt.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HXT.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\WeatherForecast.cs",
+              "RelativeToolTip": "HXT.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:06:38.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HXT.ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "HXT.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:50:49.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "HXT.RabitMQ\\RabbitMQProducer.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\RabbitMQProducer.cs",
+              "RelativeToolTip": "HXT.RabitMQ\\RabbitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:45:47.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRabbitMQProducer.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\IRabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "HXT.RabitMQ\\IRabbitMQProducer.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\IRabbitMQProducer.cs",
+              "RelativeToolTip": "HXT.RabitMQ\\IRabbitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:45:27.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\Product.cs",
+              "RelativeDocumentMoniker": "HXT.RabitMQ\\Product.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RabitMQ\\Product.cs",
+              "RelativeToolTip": "HXT.RabitMQ\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:45:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceCollectionExtentions.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\ServiceCollectionExtentions.cs",
+              "RelativeDocumentMoniker": "HXT.APIClient\\ServiceCollectionExtentions.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\ServiceCollectionExtentions.cs",
+              "RelativeToolTip": "HXT.APIClient\\ServiceCollectionExtentions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:11:41.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpClientSetting.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\HttpClientSetting.cs",
+              "RelativeDocumentMoniker": "HXT.APIClient\\HttpClientSetting.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\HttpClientSetting.cs",
+              "RelativeToolTip": "HXT.APIClient\\HttpClientSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:11:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "HXT.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Users\\User.cs",
+              "RelativeToolTip": "HXT.Domain\\Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:04:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "APIClient.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\APIClient.cs",
+              "RelativeDocumentMoniker": "HXT.APIClient\\APIClient.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.APIClient\\APIClient.cs",
+              "RelativeToolTip": "HXT.APIClient\\APIClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:02:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HXT.API\\appsettings.Development.json",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\appsettings.Development.json",
+              "RelativeToolTip": "HXT.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T14:48:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HXT.API.http",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\HXT.API.http",
+              "RelativeDocumentMoniker": "HXT.API\\HXT.API.http",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\HXT.API.http",
+              "RelativeToolTip": "HXT.API\\HXT.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-09T14:47:32.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "HXT.Service\\User\\UserService.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Service\\User\\UserService.cs",
+              "RelativeToolTip": "HXT.Service\\User\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:11:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "HXT.API\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "HXT.API\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:08:38.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Program.cs",
+              "RelativeDocumentMoniker": "HXT.API\\Program.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Program.cs",
+              "RelativeToolTip": "HXT.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:08:31.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RedisCacheHandler.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\RedisCacheHandler.cs",
+              "RelativeDocumentMoniker": "HXT.RedisCache\\RedisCacheHandler.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\RedisCacheHandler.cs",
+              "RelativeToolTip": "HXT.RedisCache\\RedisCacheHandler.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:04:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICacheHandler.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\ICacheHandler.cs",
+              "RelativeDocumentMoniker": "HXT.RedisCache\\ICacheHandler.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\ICacheHandler.cs",
+              "RelativeToolTip": "HXT.RedisCache\\ICacheHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:04:37.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RedisDbProvider.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\RedisDbProvider.cs",
+              "RelativeDocumentMoniker": "HXT.RedisCache\\RedisDbProvider.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\RedisDbProvider.cs",
+              "RelativeToolTip": "HXT.RedisCache\\RedisDbProvider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:03:59.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRedisDbProvider.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\IRedisDbProvider.cs",
+              "RelativeDocumentMoniker": "HXT.RedisCache\\IRedisDbProvider.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.RedisCache\\IRedisDbProvider.cs",
+              "RelativeToolTip": "HXT.RedisCache\\IRedisDbProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:03:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "HXT.Infrastructure\\Repository.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Infrastructure\\Repository.cs",
+              "RelativeToolTip": "HXT.Infrastructure\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:09:57.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HXT.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HXT.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:05:59.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Departments\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HXT.Domain\\Departments\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Departments\\IDepartmentRepository.cs",
+              "RelativeToolTip": "HXT.Domain\\Departments\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:05:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "HXT.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "HXT.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:04:23.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.Service\\Department\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HXT.Service\\Department\\DepartmentService.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.Service\\Department\\DepartmentService.cs",
+              "RelativeToolTip": "HXT.Service\\Department\\DepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:00:04.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HXT.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HXT.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:58:55.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "HXT.API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\min\\self-taught\\HXT.API\\HXT.API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "HXT.API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:58:03.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

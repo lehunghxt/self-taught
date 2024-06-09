@@ -1,0 +1,17 @@
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Infrastructure.deps.json
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Infrastructure.runtimeconfig.json
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Infrastructure.dll
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Infrastructure.pdb
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Domain.dll
+D:\min\HXT.API\HXT.Infrastructure\bin\Debug\net8.0\HXT.Domain.pdb
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.AssemblyInfo.cs
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infr.B955610A.Up2Date
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.dll
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\refint\HXT.Infrastructure.dll
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.pdb
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\HXT.Infrastructure.genruntimeconfig.cache
+D:\min\HXT.API\HXT.Infrastructure\obj\Debug\net8.0\ref\HXT.Infrastructure.dll

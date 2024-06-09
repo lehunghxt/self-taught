@@ -1,0 +1,12 @@
+D:\min\HXT.API\HXT.APIClient\bin\Debug\net8.0\HXT.APIClient.deps.json
+D:\min\HXT.API\HXT.APIClient\bin\Debug\net8.0\HXT.APIClient.dll
+D:\min\HXT.API\HXT.APIClient\bin\Debug\net8.0\HXT.APIClient.pdb
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.AssemblyInfo.cs
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.dll
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\refint\HXT.APIClient.dll
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\HXT.APIClient.pdb
+D:\min\HXT.API\HXT.APIClient\obj\Debug\net8.0\ref\HXT.APIClient.dll

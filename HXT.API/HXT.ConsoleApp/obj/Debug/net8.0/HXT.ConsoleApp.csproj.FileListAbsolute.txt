@@ -1,0 +1,17 @@
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\HXT.ConsoleApp.exe
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\HXT.ConsoleApp.deps.json
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\HXT.ConsoleApp.runtimeconfig.json
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\HXT.ConsoleApp.dll
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\HXT.ConsoleApp.pdb
+D:\min\HXT.API\HXT.ConsoleApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.AssemblyInfo.cs
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.Cons.A7C54319.Up2Date
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.dll
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\refint\HXT.ConsoleApp.dll
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.pdb
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\HXT.ConsoleApp.genruntimeconfig.cache
+D:\min\HXT.API\HXT.ConsoleApp\obj\Debug\net8.0\ref\HXT.ConsoleApp.dll

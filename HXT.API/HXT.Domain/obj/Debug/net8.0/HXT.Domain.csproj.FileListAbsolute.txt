@@ -1,0 +1,12 @@
+D:\min\HXT.API\HXT.Domain\bin\Debug\net8.0\HXT.Domain.deps.json
+D:\min\HXT.API\HXT.Domain\bin\Debug\net8.0\HXT.Domain.dll
+D:\min\HXT.API\HXT.Domain\bin\Debug\net8.0\HXT.Domain.pdb
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.AssemblyInfo.cs
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.dll
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\refint\HXT.Domain.dll
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\HXT.Domain.pdb
+D:\min\HXT.API\HXT.Domain\obj\Debug\net8.0\ref\HXT.Domain.dll

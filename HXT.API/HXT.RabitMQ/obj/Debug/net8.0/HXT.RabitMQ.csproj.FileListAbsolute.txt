@@ -1,0 +1,12 @@
+D:\min\HXT.API\HXT.RabitMQ\bin\Debug\net8.0\HXT.RabitMQ.deps.json
+D:\min\HXT.API\HXT.RabitMQ\bin\Debug\net8.0\HXT.RabitMQ.dll
+D:\min\HXT.API\HXT.RabitMQ\bin\Debug\net8.0\HXT.RabitMQ.pdb
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.AssemblyInfo.cs
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.dll
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\refint\HXT.RabitMQ.dll
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\HXT.RabitMQ.pdb
+D:\min\HXT.API\HXT.RabitMQ\obj\Debug\net8.0\ref\HXT.RabitMQ.dll

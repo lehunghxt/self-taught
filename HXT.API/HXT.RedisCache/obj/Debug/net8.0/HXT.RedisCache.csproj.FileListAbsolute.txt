@@ -1,0 +1,12 @@
+D:\min\HXT.API\HXT.RedisCache\bin\Debug\net8.0\HXT.RedisCache.deps.json
+D:\min\HXT.API\HXT.RedisCache\bin\Debug\net8.0\HXT.RedisCache.dll
+D:\min\HXT.API\HXT.RedisCache\bin\Debug\net8.0\HXT.RedisCache.pdb
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.csproj.AssemblyReference.cache
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.AssemblyInfoInputs.cache
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.AssemblyInfo.cs
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.csproj.CoreCompileInputs.cache
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.dll
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\refint\HXT.RedisCache.dll
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\HXT.RedisCache.pdb
+D:\min\HXT.API\HXT.RedisCache\obj\Debug\net8.0\ref\HXT.RedisCache.dll
